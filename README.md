@@ -17,3 +17,6 @@ Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 �
 ┃ ┗ 📂 Scenes   
 ┃ ┃ ┣ 🎬 SampleScene.unity   # 메인씬
 ┃ ┃ ┗ 📂 VivaldiScenes   # 계절 별 미니게임 씬
+
+### 🛠️ Dependencies
+- Unity **2022.3.17 LTS** or later
