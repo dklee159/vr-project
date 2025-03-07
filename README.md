@@ -4,6 +4,15 @@ Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 �
 ## 📁 Project Structure
 📂 VIVALDI Exhibition   
 ┣ 📂 Assets  
+┃ ┣ 📂 AK Studio Art
+┃ ┃ ┣ 📂 Art Gallery Vol.9
+┃ ┃ ┃ ┗ 📂 Scenes
+┃ ┃ ┃ ┃ ┗ 🎬 Main.unity   # 메인씬
+┃ ┣ 📂 MiniGames
+┃ ┃ ┣ 📂 Spring   # 봄 미니게임 씬
+┃ ┃ ┣ 📂 Summer   # 여름 미니게임 씬
+┃ ┃ ┣ 📂 Autumn   # 가을 미니게임 씬
+┃ ┃ ┗ 📂 Winter   # 겨울 미니게임 씬
 ┃ ┣ 📂 Scripts   
 ┃ ┃ ┣ 📜 AudioManager.cs # 장소에 따라 오디오 조절    
 ┃ ┃ ┣ 📜 FadeScreen.cs # 공간 이동 시 카메라에 페이드 아웃 효과   
@@ -15,8 +24,9 @@ Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 �
 ┃ ┃ ┣ 📜 ThemeManager.cs # 활성화 된 계절에 따른 명화 배치 및 설명 활성화    
 ┃ ┃ ┗ 📜 ZoneEntrance.cs # 오브젝트 거리에 따라 상호작용 UI on/off 조절   
 ┃ ┗ 📂 Scenes   
-┃ ┃ ┣ 🎬 SampleScene.unity   # 메인씬
-┃ ┃ ┗ 📂 VivaldiScenes   # 계절 별 미니게임 씬
+┃ ┃ ┗ 📂 VivaldiScenes   # 계절 별 명화 씬
 
 ### 🛠️ Dependencies
 - Unity **2022.3.17 LTS** or later
+
+![image](https://github.com/user-attachments/assets/ee064a15-36ed-4af4-b70a-028e59dc4329)
