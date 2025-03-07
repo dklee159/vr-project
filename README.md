@@ -23,23 +23,23 @@ Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 �
 ┃ ┃ ┣ 📂 Autumn   # 가을 미니게임 씬   
 ┃ ┃ ┗ 📂 Winter   # 겨울 미니게임 씬   
 ┃ ┣ 📂 Scripts   
-┃ ┃ ┣ 📜 AudioManager.cs # 장소에 따라 오디오 조절    
-┃ ┃ ┣ 📜 AutumnGameManager.cs # 가을 게임 컨트롤러    
-┃ ┃ ┣ 📜 BugNet.cs # 잠자리채 트리거 기능    
-┃ ┃ ┣ 📜 Butterfly.cs # 나비 움직임 기능     
-┃ ┃ ┣ 📜 FadeScreen.cs # 공간 이동 시 카메라에 페이드 아웃 효과   
-┃ ┃ ┣ 📜 GameManager.cs # 씬 교체 시 오브젝트 파괴 여부 조절   
-┃ ┃ ┣ 📜 HarvestSpot.cs # 가을 미니게임 밭   
-┃ ┃ ┣ 📜 Hoe.cs # 가을 미니게임 밭   
-┃ ┃ ┣ 📜 HoverFrame.cs # 액자 아웃라인 효과 on/off   
-┃ ┃ ┣ 📜 MiniGame.cs # 계절 별 미니 게임 진행 조절(계절 공통)   
-┃ ┃ ┣ 📜 PlaceTransitionManager.cs # 씬 이동 시 플레이어 위치 및 카메라 설정   
-┃ ┃ ┣ 📜 SceneTransitionManager.cs # 활성화 된 계절 씬 로드   
-┃ ┃ ┣ 📜 SnowBall.cs # 겨울 미니게임 눈덩이 트리거 기능   
-┃ ┃ ┣ 📜 SummerGameManager.cs # 여름 미니게임 컨트롤러   
-┃ ┃ ┣ 📜 ThemeManager.cs # 활성화 된 계절에 따른 명화 배치 및 설명 활성화    
-┃ ┃ ┣ 📜 WinterGameManager.cs # 겨울 미니게임 스코어 계산    
-┃ ┃ ┗ 📜 ZoneEntrance.cs # 오브젝트 거리에 따라 상호작용 UI on/off 조절   
+┃ ┃ ┣ 📜 [AudioManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/AudioManager.cs "") # 장소에 따라 오디오 조절    
+┃ ┃ ┣ 📜 [AutumnGameManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/AutumnGameManager.cs "") # 가을 게임 컨트롤러    
+┃ ┃ ┣ 📜 [BugNet.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/BugNet.cs "") # 잠자리채 트리거 기능    
+┃ ┃ ┣ 📜 [Butterfly.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/Butterfly.cs "") # 나비 움직임 기능     
+┃ ┃ ┣ 📜 [FadeScreen.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/FadeScreen.cs "") # 공간 이동 시 카메라에 페이드 아웃 효과   
+┃ ┃ ┣ 📜 [GameManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/GameManager.cs "") # 씬 교체 시 오브젝트 파괴 여부 조절   
+┃ ┃ ┣ 📜 [HarvestSpot.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/HarvestSpot.cs "") # 가을 미니게임 밭   
+┃ ┃ ┣ 📜 [Hoe.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/Hoe.cs "") # 가을 미니게임 밭   
+┃ ┃ ┣ 📜 [HoverFrame.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/HoverFrame.cs "") # 액자 아웃라인 효과 on/off   
+┃ ┃ ┣ 📜 [MiniGame.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/MiniGame.cs "") # 계절 별 미니 게임 진행 조절(계절 공통)   
+┃ ┃ ┣ 📜 [PlaceTransitionManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/PlaceTransitionManager.cs "") # 씬 이동 시 플레이어 위치 및 카메라 설정   
+┃ ┃ ┣ 📜 [SceneTransitionManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/SceneTransitionManager.cs "") # 활성화 된 계절 씬 로드   
+┃ ┃ ┣ 📜 [SnowBall.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/SnowBall.cs "") # 겨울 미니게임 눈덩이 트리거 기능   
+┃ ┃ ┣ 📜 [SummerGameManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/SummerGameManager.cs "") # 여름 미니게임 컨트롤러   
+┃ ┃ ┣ 📜 [ThemeManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/ThemeManager.cs "") # 활성화 된 계절에 따른 명화 배치 및 설명 활성화    
+┃ ┃ ┣ 📜 [WinterGameManager.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/WinterGameManager.cs "") # 겨울 미니게임 스코어 계산    
+┃ ┃ ┗ 📜 [ZoneEntrance.cs](https://github.com/dklee159/vr-project/blob/main/Assets/Scripts/ZoneEntrance.cs "") # 오브젝트 거리에 따라 상호작용 UI on/off 조절   
 ┃ ┗ 📂 Scenes   
 ┃ ┃ ┗ 📂 VivaldiScenes   # 계절 별 명화 씬
 
