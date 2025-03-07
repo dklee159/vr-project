@@ -61,6 +61,29 @@ Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 �
 <img src="https://github.com/user-attachments/assets/d141204b-8ff9-433d-a59d-643e74591a76" width="360" height="180"/>
 <img src="https://github.com/user-attachments/assets/b712267c-fd9f-497a-a8b2-99a7e6e4b3e4" width="360" height="180"/>
 
+## ⚙ Contributors
+이도경(dklee159) - Team Leader
+- VIVALDI 전체 콘텐츠 기획
+- 필요 모델링, SFX, VFX 등 리소스 구매 및 제작
+- URP 최적화 셋팅, 전체 맵 라이트맵 베이크
+- 중앙홀 계절 선택 액자 아웃라인 기능 추가
+- 계절 선택 및 장소 이동 UI 제작
+- 장소 이동 시 페이드 아웃 기능 개발
+- 미디어 아트관 구현
+  - 입장 시 선택한 계절의 영상이 3면에서 재생되는 형식으로 구현
+  - 
+- 미니게임 봄 개발
+  - 물뿌리개 기울기 각도에 따라 물방울 이벡트 on/off 기능 개발
+  - 화분에 이펙트 닿을 시 화분 게이지 상승
+  - 거울 쉐이더 
+황원진(hwj0014)
+- 미니게임 공용 타이머 UI 개발
+- 미니게임 여름 개발
+- 미니게임 가을 개발
+- 미니게임 겨울 개발
+
+
+
 
 ## 🛠️ Dependencies
 - Unity **2022.3.17 LTS** or later
