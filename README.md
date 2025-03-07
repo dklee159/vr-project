@@ -1,6 +1,14 @@
 # Unity Project: VIVALDI Exhibition
 Welcome to **VIVALDI Exhibition**! 이 유니티 프로젝트는 메타버즈 개발팀 사이드 VR 프로젝트 입니다.   
 
+## 📣 Introduce
+- 게이밍 요소보다는 체험 요소 강조
+- 주로 정적일 수 밖에 없는 미술관에 미디어 아트를 통해 공감각적로 요소 활용 (VR 장점 부각)
+- 각 계절에 맞는 미니게임(체험) 요소 삽입
+  - 봄 : 화분에 꽃 키우기
+  - 여름 : 날아다니는 나비 채집
+  - 가을 : 밭에서 채소 수확
+  - 겨울 : 눈덩이로 눈사람 맞추기
 
 ## 📁 Project Structure
 📂 VIVALDI Exhibition   
