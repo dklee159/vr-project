@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AK Studio Art/Art Gallery Vol.9/Scenes/Demo 1.unity
+    path: Assets/AK Studio Art/Art Gallery Vol.9/Scenes/Main.unity
     guid: ff0eb876031ff024784f9d46221bc50c
   - enabled: 1
     path: Assets/MiniGames/Spring/Spring_MiniGame.unity
